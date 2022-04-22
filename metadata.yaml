@@ -1,5 +1,8 @@
 _repo: The-Residuary-Legatee-Or-The-Posthumous-Jest-of-the-Late-John-Austin_67592
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67592-h/images/cover.jpg
 creator:
   author:
     agent_name: Stimson, Frederic Jesup
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8370
     wikipedia: https://en.wikipedia.org/wiki/Frederic_Jesup_Stimson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67592#The-Residuary-Legatee-Or-The-Posthumous-Jest-of-the-Late-John-Austin
 gutenberg_issued: '2022-03-09'
 identifiers:
   gutenberg: '67592'
